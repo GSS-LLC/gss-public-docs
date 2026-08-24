@@ -1,0 +1,9 @@
+# macOS Finder metadata
+.DS_Store
+
+# JetBrains local project configuration
+.idea/
+*.iml
+
+# Windows Explorer metadata
+Thumbs.db
