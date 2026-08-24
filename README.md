@@ -17,5 +17,14 @@
 
 ## ორგანიზება
 
-ყველა დოკუმენტი პროდუქტის მიხედვითაა დაჯგუფებული [GSS Products](./GSS%20Products)-ში. თითოეული გზამკვლევი
-სახელდებულია თავისი შინაარსით, რათა მომხმარებელმა მასზე პირდაპირი ბმულიც მარტივად გააზიაროს.
+ყველა დოკუმენტი პროდუქტის მიხედვითაა დაჯგუფებული [GSS Products](./GSS%20Products)-ში. პროდუქტისგან
+დამოუკიდებელი წესები — მაგალითად, [საძიებო ფრაზის საერთო წესები](./GSS%20Products/General/search-phrase-rules.md) —
+ინახება `General`-ში და პროდუქტების გვერდები მასზე მიუთითებს.
+
+საძიებო გზამკვლევები:
+
+- [Contacts — კონტაქტები](./GSS%20Products/Contacts/search-contacts.md);
+- [Contacts — კომუნიკაციის ისტორია](./GSS%20Products/Contacts/search-communication-history.md);
+- [SuperFin — ანგარიშთა გეგმა, საწყისი ნაშთები და ბრუნვა](./GSS%20Products/SuperFin/search-architecture-accounts.md);
+- [SuperFin — საბუთები](./GSS%20Products/SuperFin/search-architecture-documents.md);
+- [SuperFin — RS ანგარიშ-ფაქტურები](./GSS%20Products/SuperFin/search-architecture-rs-invoices.md).
