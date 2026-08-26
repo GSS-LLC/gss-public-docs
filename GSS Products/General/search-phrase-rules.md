@@ -12,7 +12,15 @@
 
 მაგალითად, `თემა: ხელშეკრულება` ეძებს მხოლოდ იმ ველში, რომელსაც არჩეულ პროდუქტში `თემა` ჰქვია. ველის სახელი ზუსტად უნდა ჩაწეროთ; ყველაზე მარტივია მისი არჩევა გაფართოებული ძებნის ფანჯრიდან.
 
-ველის სახელის გარეშე დაწერილი ტექსტი არის ჩვეულებრივი ძებნა. სად და როგორ ეძებს ეს ტექსტი, კონკრეტული პროდუქტის გვერდზეა აღწერილი.
+ველის სახელის გარეშე დაწერილი ტექსტი არის **Everywhere** ძებნა. მასში მონაწილე ველების
+ზუსტი სია იხილეთ შესაბამისი გზამკვლევის ამავე სახელწოდების სექციაში:
+
+- [Contacts — კონტაქტები](../Contacts/search-contacts.md#everywhere);
+- [Contacts — კომუნიკაციის ისტორია](../Contacts/search-communication-history.md#everywhere);
+- [SuperFin — ანგარიშთა გეგმა და საწყისი ნაშთები](../SuperFin/search-architecture-accounts.md#everywhere);
+- [SuperFin — ბრუნვა](../SuperFin/search-architecture-accounts.md#everywhere-1);
+- [SuperFin — საბუთები](../SuperFin/search-architecture-documents.md#everywhere);
+- [SuperFin — RS ანგარიშ-ფაქტურები](../SuperFin/search-architecture-rs-invoices.md#everywhere).
 
 ## რამდენიმე პირობის გაერთიანება
 
