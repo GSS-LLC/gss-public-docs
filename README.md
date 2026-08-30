@@ -13,18 +13,22 @@
 - რეალური, ადამიანურად წასაკითხი მაგალითები და მოქმედების შეზღუდვები.
 
 აქ არ იწერება კოდის არქიტექტურა, API/SQL/Spanner-ის ტექნიკური დეტალები, ინფრასტრუქტურული ოპერაციები ან შიდა
-გადაწყვეტილებები. ასეთი მასალა ცალკე [gss-private-docs](../gss-private-docs)-ში ინახება.
+გადაწყვეტილებები. ასეთი მასალა ცალკე gss-private-docs-ში ინახება.
 
 ## ორგანიზება
 
-ყველა დოკუმენტი პროდუქტის მიხედვითაა დაჯგუფებული [GSS Products](./GSS%20Products)-ში. პროდუქტისგან
-დამოუკიდებელი წესები — მაგალითად, [საძიებო ფრაზის საერთო წესები](./GSS%20Products/General/search-phrase-rules.md) —
+ყველა დოკუმენტი პროდუქტის მიხედვითაა დაჯგუფებული GSS Products-ში. პროდუქტისგან
+დამოუკიდებელი წესები — მაგალითად, საძიებო ფრაზის საერთო წესები —
 ინახება `General`-ში და პროდუქტების გვერდები მასზე მიუთითებს.
 
 საძიებო გზამკვლევები:
 
-- [Contacts — კონტაქტები](./GSS%20Products/Contacts/search-contacts.md);
-- [Contacts — კომუნიკაციის ისტორია](./GSS%20Products/Contacts/search-communication-history.md);
-- [SuperFin — ანგარიშთა გეგმა, საწყისი ნაშთები და ბრუნვა](./GSS%20Products/SuperFin/search-architecture-accounts.md);
-- [SuperFin — საბუთები](./GSS%20Products/SuperFin/search-architecture-documents.md);
-- [SuperFin — RS ანგარიშ-ფაქტურები](./GSS%20Products/SuperFin/search-architecture-rs-invoices.md).
+- Contacts — კონტაქტები;
+- Contacts — კომუნიკაციის ისტორია;
+- SuperFin — ანგარიშთა გეგმა, საწყისი ნაშთები და ბრუნვა;
+- SuperFin — საბუთები;
+- SuperFin — RS ანგარიშ-ფაქტურები.
+
+Supports-ის გზამკვლევები:
+
+- Q&A საბუთები — როლები და წვდომა.
