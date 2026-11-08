@@ -37,7 +37,6 @@
   - [ვებ-სუპერფინი: საბუთების ძებნა](<GSS Products/SuperFin/search/search-documents.md>) - საბუთების პირდაპირი და გატარების ველები, ანგარიშსა და კონტაქტზე ჩადგმული ძებნა და შეცვლილი/წაშლილი საბუთების რეჟიმი;
   - [ვებ-სუპერფინი: RS ანგარიშ-ფაქტურების ძებნა](<GSS Products/SuperFin/search/search-rs-invoices.md>) - RS ანგარიშ-ფაქტურების ტექსტური, რიცხვითი და სტატუსის მიხედვით ძებნა.
 - **სუპერფინის ზოგადი გზამკვლევები (`general`):**
-  - [SuperFin - ზოგადი გზამკვლევი (სარჩევი)](<GSS Products/SuperFin/general/README.md>);
   - [პროგრამის აღწერა და შესაძლებლობები](<GSS Products/SuperFin/general/description.md>);
   - [ინსტრუქციები და სასწავლო კურსი](<GSS Products/SuperFin/general/instructions.md>);
   - [გადმოწერა და საინსტალაციო ინსტრუქცია](<GSS Products/SuperFin/general/downloads.md>);
@@ -45,9 +44,12 @@
 
 ### კონტაქტები (`GSS Products/Contacts`)
 
-- [კონტაქტის შეყვანა და რედაქტირება](<GSS Products/Contacts/contact-input.md>) - პიროვნების, ორგანიზაციისა და ბანკის ბარათების შევსება, ველები და დაკავშირებული ჩანაწერები;
-- [კონტაქტების ძებნა](<GSS Products/Contacts/search-contacts.md>) - პიროვნებების, ორგანიზაციებისა და ბანკების ძებნა, საძიებო ველები და ჩადგმული კავშირები;
-- [კომუნიკაციის ისტორიის ძებნა](<GSS Products/Contacts/search-communication-history.md>) - კომუნიკაციის ისტორიის ჩანაწერების ძებნა და ფილტრაცია.
+- [GSS კონტაქტები (Contacts): კონტაქტის ბარათები - პიროვნება, ორგანიზაცია და ბანკი](<GSS Products/Contacts/contact-forms.md>) - პიროვნების, ორგანიზაციისა და ბანკის ბარათების შექმნა, ველები, სურათების მართვა, შეზღუდული რედაქტირება და ცვლილების მოთხოვნა;
+- [GSS-ის პროგრამები: კონტაქტის არჩევის ველი](<GSS Products/Contacts/contact-input.md>) - კონტაქტის მოძებნა, არჩევა, მინიშნება და ახალი კონტაქტის დამატება პირდაპირ ველიდან;
+- [GSS კონტაქტები (Contacts): კონტაქტების ძებნა](<GSS Products/Contacts/search-contacts.md>) - პიროვნებების, ორგანიზაციებისა და ბანკების ძებნა, საძიებო ველები და ჩადგმული კავშირები;
+- [GSS კონტაქტები (Contacts): კომუნიკაციის ისტორიის ჩანაწერის შექმნა და მართვა](<GSS Products/Contacts/communication-history-records.md>) - შენიშვნის, ბიზნეს ჩანაწერისა და სატელეფონო ჩანაწერის დამატება, კავშირები და რედაქტირება;
+- [GSS კონტაქტები (Contacts): კომუნიკაციის ისტორიის ძებნა](<GSS Products/Contacts/search-communication-history.md>) - კომუნიკაციის ისტორიის ჩანაწერების ძებნა, პერიოდის კალენდარი და ჩადგმული ფილტრაცია;
+- [როლები და უფლებები Contacts-ში](<GSS Products/Contacts/roles-and-permissions.md>) - ადმინისტრატორისა და კონტაქტების მენეჯერის უფლებები, მომხმარებლების მართვა და შეზღუდული ბარათების კონტროლი.
 
 ### მხარდაჭერები (`GSS Products/Supports`)
 
@@ -55,18 +57,17 @@
 
 ### გაყიდვები (`GSS Products/Sales`)
 
-- [გაყიდული სერვისების სასიცოცხლო ციკლი (სარჩევი)](<GSS Products/Sales/Sold Services Lifecycle/README.md>):
-  - [ძებნა და ფილტრები](<GSS Products/Sales/Sold Services Lifecycle/01-search-and-filters.md>);
-  - [შექმნა, კავშირები და გადახდა](<GSS Products/Sales/Sold Services Lifecycle/02-create-connections-and-payment.md>);
-  - [ვადები, აღდგენა და წაშლა](<GSS Products/Sales/Sold Services Lifecycle/03-lifecycle-terms-restore-and-delete.md>);
-  - [როლები და უფლებები](<GSS Products/Sales/Sold Services Lifecycle/04-roles-and-permissions.md>);
-  - [თანმხლები ინფორმაცია, ისტორია და მოქმედებები](<GSS Products/Sales/Sold Services Lifecycle/05-accompanying-info-history-and-actions.md>).
+- **გაყიდული მომსახურებების სასიცოცხლო ციკლი (`Sold Services Lifecycle`):**
+  - [Sales - 1. ძებნა, ფილტრები და გაყიდული მომსახურებების სია](<GSS Products/Sales/Sold Services Lifecycle/01-search-and-filters.md>);
+  - [Sales - 2. მომსახურების შექმნა, კავშირები და გადახდა](<GSS Products/Sales/Sold Services Lifecycle/02-create-connections-and-payment.md>);
+  - [Sales - 3. „მოქმედი“ და „შემდეგი“ გაყიდვები, ვადები, აღდგენა და წაშლა](<GSS Products/Sales/Sold Services Lifecycle/03-lifecycle-terms-restore-and-delete.md>);
+  - [Sales - 4. ნახვისა და შეცვლის უფლებები](<GSS Products/Sales/Sold Services Lifecycle/04-roles-and-permissions.md>);
+  - [Sales - 5. თანმხლები ინფორმაცია, კომუნიკაციის ისტორია და სპეციალური ქმედებები](<GSS Products/Sales/Sold Services Lifecycle/05-accompanying-info-history-and-actions.md>).
 
 ### GSS ტესტები (`GSS Products/GSS Tests`)
 
-- [GSS ტესტები - სრული სახელმძღვანელო და სარჩევი](<GSS Products/GSS Tests/README.md>);
-- [კონცეფცია და საგანმანათლებლო მოდელი](<GSS Products/GSS Tests/overview.md>) - „შპარგალკა / წყარო საბუთი“, შეცდომების როლი და წვდომის უფლებები;
-- [როგორ გამოვიწეროთ ტესტები](<GSS Products/GSS Tests/how-to-subscribe.md>) - კატალოგი, ძებნა და გამოწერის მართვა;
-- [ტესტის გავლის პროცესი და რანერი](<GSS Products/GSS Tests/test-runner-and-cheatsheet.md>) - „შპარგალკის“ გამოყენება, შემოწმება და ავტომატური რეჟიმი;
-- [SuperFin-ის სწავლა ტესტებით](<GSS Products/GSS Tests/superfin-learning-guide.md>) - პრაქტიკული ქეისი და ყოველდღიური სასწავლო რუტინა;
-- [FAQ და პრობლემების მოგვარება](<GSS Products/GSS Tests/faq-and-troubleshooting.md>) - ხშირად დასმული კითხვები, შეცდომების მთვლელი და რჩევები.
+- [GSS ტესტები (GSS Tests) - სისტემის მიმოხილვა და დანიშნულება](<GSS Products/GSS Tests/overview.md>) - აქტიური სწავლების პრინციპი, კითხვების დინამიკური შეკრება, წვდომის მოდელი და გამომწერების მონიტორინგი;
+- [GSS ტესტები: ტესტების მოძიება, გამოწერა და სამუშაო დაფის მართვა](<GSS Products/GSS Tests/how-to-subscribe.md>) - სამუშაო დაფა, კატალოგში ძებნა, გამოწერა და ბარათის მაჩვენებლები;
+- [GSS ტესტები: ტესტის გავლა, „შპარგალკა“, დოკუმენტაცია და თემის AI](<GSS Products/GSS Tests/test-runner-and-cheatsheet.md>) - კითხვაზე პასუხის გაცემა, ავტომატური შემოწმება, პირველადი წყაროს ბმული, დოკუმენტაციის ძებნა და თემის AI;
+- [სუპერფინის (SuperFin) პრაქტიკული შესწავლა GSS ტესტებით](<GSS Products/GSS Tests/superfin-learning-guide.md>) - სუპერფინის 8 საჯარო ტესტირება, რეკომენდებული თანმიმდევრობა და დამხმარე სახელმძღვანელოები;
+- [GSS ტესტები: ხშირად დასმული კითხვები (FAQ) და ტექნიკური მხარდაჭერა](<GSS Products/GSS Tests/faq-and-troubleshooting.md>) - გაზიარებული პროგრესი, კითხვების ვერსიები, მრიცხველების გადათვლა და ეკრანის სტატუსები.
