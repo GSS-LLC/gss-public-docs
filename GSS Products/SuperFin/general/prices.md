@@ -102,3 +102,13 @@ SuperFin-ის ყოველთვიური მომსახურებ
 - **ელფოსტა:** `service@gss.ge`
 - **ტელეფონი:** `+995 32 2313331`, `2313431`, `2313531`
 - **ვებგვერდები:** [https://gss.ge/SuperFin/Price?l=ka](https://gss.ge/SuperFin/Price?l=ka) · [https://superfin.gss.ge/ka/info/prices](https://superfin.gss.ge/ka/info/prices)
+
+
+---
+
+### იხილეთ ასევე
+
+- [სუპერფინისა და ვებ-სუპერფინის ინსტრუქციების სარჩევი](https://supports.gss.ge/ka/info/public-qa-document/68/2a8fc171-32f1-4aa4-94f6-44120ed7f208)
+- [ვებ-სუპერფინი — სამუშაო გარემო, მიმოხილვა და გადახდა](https://supports.gss.ge/ka/info/public-qa-document/68/66251d3a-d9a2-4b2e-8ef6-d55fdf349fc9)
+- [ვებ-სუპერფინი — მონაცემების შენახვა უმოქმედობისას](https://supports.gss.ge/ka/info/public-qa-document/68/1b89948f-60ec-47ea-a201-d43e25db4d4e)
+- [სუპერფინი და ვებ-სუპერფინი — შესაძლებლობები](https://supports.gss.ge/ka/info/public-qa-document/68/269eb4f8-920d-4e11-9a18-643234f8184f)

@@ -121,3 +121,13 @@ SuperFin-ის სადემონსტრაციო ვერსიის
 
 - [SuperFin — გადმოწერა და საინსტალაციო ინსტრუქცია](https://supports.gss.ge/ka/info/public-qa-document/68/2f25428f-d49e-4286-ba08-82f490460226)
 
+
+
+---
+
+### იხილეთ ასევე
+
+- [სუპერფინისა და ვებ-სუპერფინის ინსტრუქციების სარჩევი](https://supports.gss.ge/ka/info/public-qa-document/68/2a8fc171-32f1-4aa4-94f6-44120ed7f208)
+- [კომპიუტერის სუპერფინი — ჩამოტვირთვა და ინსტალაცია](https://supports.gss.ge/ka/info/public-qa-document/68/2f25428f-d49e-4286-ba08-82f490460226)
+- [ვებ-სუპერფინი — პრაქტიკული სასწავლო კურსი](https://supports.gss.ge/ka/info/public-qa-document/68/3ffc870f-c5c8-4859-bba3-83772333eb40) — ცალკე კურსი ვებ-სუპერფინისთვის.
+- [ვებ-სუპერფინი — კომპიუტერის სუპერფინთან და API-ით დაკავშირება](https://supports.gss.ge/ka/info/public-qa-document/68/3a0c705f-51f2-4287-9260-588d291d69cb)

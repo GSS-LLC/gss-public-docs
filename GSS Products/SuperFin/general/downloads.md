@@ -172,3 +172,12 @@ GSS-ის მხარდაჭერის გუნდთან დისტ�
 - [დანართი # 9 — საკონტროლო-სალარო აპარატის შესაკეთებლად გადაცემის და უკან დაბრუნების აქტი (10 KB; zip)](https://gss.ge/Downloads/SuperFin/GSSExcel/danarti_9_ssa_is_shesaketebelad_gadacemis_da_dabrunebi_aqti.zip)
 - [დანართი #10 — სსა-ის შესაკეთებლად გადაცემისას სარეზერვო სსა-ების დადგმისა და დაბრუნების აქტი (9 KB; zip)](https://gss.ge/Downloads/SuperFin/GSSExcel/danarti_10_sarezervo_ssa_is_dadgmisa_da_dabrunebis_aqti.zip)
 - [გავლილი მანძილის რეესტრი (6 KB; zip)](https://gss.ge/Downloads/SuperFin/GSSExcel/gavlili_mandzilis_reestri.zip)
+
+
+---
+
+### იხილეთ ასევე
+
+- [სუპერფინისა და ვებ-სუპერფინის ინსტრუქციების სარჩევი](https://supports.gss.ge/ka/info/public-qa-document/68/2a8fc171-32f1-4aa4-94f6-44120ed7f208)
+- [კომპიუტერის სუპერფინი — სასწავლო კურსი და მასალები](https://supports.gss.ge/ka/info/public-qa-document/68/b3012019-1efb-4e9e-9ffe-4494753914e2)
+- [ვებ-სუპერფინი — კომპიუტერის სუპერფინთან და API-ით დაკავშირება](https://supports.gss.ge/ka/info/public-qa-document/68/3a0c705f-51f2-4287-9260-588d291d69cb)

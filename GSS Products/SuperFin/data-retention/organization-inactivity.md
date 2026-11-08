@@ -131,3 +131,13 @@
    - ქართულად: `ვებ-სუპერფინი: მონაცემები სრულად წაიშალა`
    - ინგლისურად: `Web-Superfin: data permanently deleted`
    - რუსულად: `Веб-Суперфин: данные окончательно удалены`
+
+
+---
+
+### იხილეთ ასევე
+
+- [სუპერფინისა და ვებ-სუპერფინის ინსტრუქციების სარჩევი](https://supports.gss.ge/ka/info/public-qa-document/68/2a8fc171-32f1-4aa4-94f6-44120ed7f208)
+- [ვებ-სუპერფინი — სამუშაო გარემო, მიმოხილვა და გადახდა](https://supports.gss.ge/ka/info/public-qa-document/68/66251d3a-d9a2-4b2e-8ef6-d55fdf349fc9)
+- [სუპერფინი და ვებ-სუპერფინი — ფასები და მომსახურების პირობები](https://supports.gss.ge/ka/info/public-qa-document/68/bdbe8402-3c14-43c6-b61a-a9a6fb7d11ff)
+- [ვებ-სუპერფინი — შეცვლილი და წაშლილი საბუთები](https://supports.gss.ge/ka/info/public-qa-document/68/cd92ec3a-b36f-4054-b72f-6169ae426048)

@@ -106,3 +106,15 @@
   * **„კონტაქტი“** (სავალდებულოა, თუ სტრიქონში შევსებულია მიზეზი ან შენიშვნა);
   * **„მიზეზი“** (მაგალითად, კავშირის ტიპი ან როლი);
   * **„შენიშვნა“**.
+
+
+---
+
+### იხილეთ ასევე
+
+- [GSS კონტაქტების ინსტრუქციების სარჩევი](https://supports.gss.ge/ka/info/public-qa-document/68/95868da2-6036-4854-9b19-ee771bbdf275)
+- [სუპერფინისა და ვებ-სუპერფინის ინსტრუქციების სარჩევი](https://supports.gss.ge/ka/info/public-qa-document/68/2a8fc171-32f1-4aa4-94f6-44120ed7f208)
+- [GSS კონტაქტები — კონტაქტების ძებნა](https://supports.gss.ge/ka/info/public-qa-document/68/1d3cadcb-2d5d-47cc-bf40-9bc92d492fc6)
+- [GSS კონტაქტები — როლები და უფლებები](https://supports.gss.ge/ka/info/public-qa-document/68/bc82e63e-3b8b-417c-bc0e-c0890cca38fb)
+- [GSS კონტაქტები — კომუნიკაციის ჩანაწერის შექმნა და მართვა](https://supports.gss.ge/ka/info/public-qa-document/68/91e89b1a-d783-44b5-a17e-3cb2f8fac332)
+- [ვებ-სუპერფინი — ანგარიშზე კონტაქტის მიბმა და დღგ-ის ტიპები](https://supports.gss.ge/ka/info/public-qa-document/68/8c3b2e7d-43bd-43ef-8d4f-b1b7cca1f776)
